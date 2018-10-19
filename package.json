@@ -1,0 +1,7 @@
+{
+  "name": "sample-pp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tyler Fry <fry.tyler@gmail.com>",
+  "license": "MIT"
+}
